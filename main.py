@@ -24,7 +24,10 @@ elif pokemon == "Squirtle":
 
 elif pokemon == "Bulbasaur":
   print("Bulbasaur is the best!")
+  print()
+  print("I like his introduction episode in the anime and he dominates the first two gyms in the game!")
 
 else: 
   print("Please pick one of the Pokemon listed above.")
+
   
