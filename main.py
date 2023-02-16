@@ -30,4 +30,6 @@ elif pokemon == "Bulbasaur":
 else: 
   print("Please pick one of the Pokemon listed above.")
 
+  print("Thank for selecting your favorite Pokemon from the three original starters!")
+
   
